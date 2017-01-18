@@ -1,3 +1,6 @@
-Fencing
-Gaming
-Programming
+ACTIVITY	FREQUENCY
+Fencing 	(Once a week)
+Gaming 		(every other day)
+Working out	(every day)
+Programming 	(every two hours)
+Eating 		(constantly)
